@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": "43e74d01-53c4-4aad-97cf-f0a3e2f7f642",
+      "title": "",
+      "description": "",
+      "price": 0,
+      "rating": 5,
+      "thumbnail": ""
+    },
+    {
+      "id": "694fcc7b-abb3-47ac-b84c-51c51a017365",
+      "title": "",
+      "description": "",
+      "price": 0,
+      "rating": 5,
+      "thumbnail": ""
+    },
+    {
+      "id": "71f36dd4-b342-425d-9464-cfa8d94398b0",
+      "title": "",
+      "description": "",
+      "price": 0,
+      "rating": 5,
+      "thumbnail": ""
+    },
+    {
+      "id": "8463d34b-abad-4fcb-9c39-4d0da540688a",
+      "title": "",
+      "description": "",
+      "price": 0,
+      "rating": 5,
+      "thumbnail": ""
+    },
+    {
+      "id": "612d9502-b13e-44a3-8689-6e071ababbb5",
+      "title": "",
+      "description": "",
+      "price": 0,
+      "rating": 5,
+      "thumbnail": ""
+    },
+    {
+      "id": "cf6a3079-e739-4e67-8aec-d783576f6955",
+      "title": "",
+      "description": "",
+      "price": 0,
+      "rating": 5,
+      "thumbnail": ""
+    },
+    {
+      "id": "d55e6f77-03b3-4806-92f8-7922cd596a90",
+      "title": "",
+      "description": "",
+      "price": 0,
+      "rating": 5,
+      "thumbnail": ""
+    }
+  ]
+}
